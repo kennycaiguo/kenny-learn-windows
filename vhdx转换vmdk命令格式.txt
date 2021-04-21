@@ -1,0 +1,2 @@
+vboxmanage clonehd F:\virtualdiskWIN-5OKFMRREPRH\WIN-5OKFMRREPRH-0.VHDX  rokfmrreprh.vmdk  --format vmdk
+vboxmanage clonehd F:\virtualdiskWIN-5OKFMRREPRH\WIN-5OKFMRREPRH-1.VHDX  rokfmrreprh1.vmdk  --format vmdk
