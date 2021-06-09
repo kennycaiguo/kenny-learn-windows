@@ -12,3 +12,5 @@ windows 问题
 # <a href="http://blog.sina.com.cn/s/blog_3f61a3230102x7hs.html">emule电驴无法连接服务器</a>
 
 # <a href="https://answers.microsoft.com/zh-hans/windows/forum/windows_10-windows_store/windowsapps%E6%AF%8F%E9%9A%9415%E5%88%86%E9%90%98/93298795-a75c-457d-81bf-ddbbad8a135b">WindowsApps每隔15分鐘就會跳一次参数错误信息</a>
+
+# <a href="https://blog.51cto.com/dyc2005/1975032">获取windows7 trustedInstaller权限</a>
