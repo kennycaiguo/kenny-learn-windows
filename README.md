@@ -14,3 +14,5 @@ windows 问题
 # <a href="https://answers.microsoft.com/zh-hans/windows/forum/windows_10-windows_store/windowsapps%E6%AF%8F%E9%9A%9415%E5%88%86%E9%90%98/93298795-a75c-457d-81bf-ddbbad8a135b">WindowsApps每隔15分鐘就會跳一次参数错误信息</a>
 
 # <a href="https://blog.51cto.com/dyc2005/1975032">获取windows7 trustedInstaller权限</a>
+
+# <a href="https://blog.csdn.net/qq_45870740/article/details/109736101?utm_term=hbuilderx%E9%85%8D%E7%BD%AEnode&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-1-109736101&spm=3001.4430">五分钟教你搞定在HbuilderX上搭建Node.js环境</a>
