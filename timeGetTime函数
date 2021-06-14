@@ -1,0 +1,1 @@
+在使用timeGetTime()函数之前应先包含头文件＃include <Mmsystem.h>，在文件头部添加 #pragma comment( lib,"winmm.lib" )
