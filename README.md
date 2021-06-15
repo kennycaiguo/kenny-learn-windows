@@ -24,4 +24,4 @@ windows 问题
 # <a href="https://blog.csdn.net/weixin_42831477/article/details/90173253">mongoDB-winodws zip版的安装与使用</a>
 
 # <a href="https://blog.csdn.net/hbtj_1216/article/details/50503284">timeGetTime()函数的用法</a>
-# <ahef="https://www.cnblogs.com/herenzhiming/articles/5488536.html">解决shader编译错误：error X3025</a>
+# <a href="https://www.cnblogs.com/herenzhiming/articles/5488536.html">解决shader编译错误：error X3025</a>
