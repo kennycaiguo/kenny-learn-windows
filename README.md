@@ -7,6 +7,13 @@ windows 问题
 完成后，生成两个文件如：WIN-5OKFMRREPRH-0.VHDX和WIN-5OKFMRREPRH-1.VHDX
 4.这两个文件VMware使用不了，需要virtualBox虚拟机的一个叫VBoxManage.exe的工具将其转换为vmdk文件
 5.端口VMware，创建一个新虚拟机，选择使用现有磁盘，将上面转换的vmdk磁盘导入，就可以将物理机转换为虚拟机了。
+
+# win10 将一个程序设置为开机启动：
+Win10如何手动添加开机启动项
+按下win+R调出运行窗口，并输入“shell:startup”即可进入开机启动文件夹。
+开机启动文件夹如图所示，此时文件夹中内容为空。
+如果想要添加启动项，可以将软件快捷方式移入开机启动文件夹中，比如移入“福昕阅读器”。
+
 # <a href="https://blog.csdn.net/flower4wine/article/details/17150055"> win7安装了vs2010后安装DXSDK_jun10失败</a>
 
 # <a href="http://blog.sina.com.cn/s/blog_3f61a3230102x7hs.html">emule电驴无法连接服务器</a>
