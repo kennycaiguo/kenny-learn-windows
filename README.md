@@ -32,3 +32,5 @@ Win10如何手动添加开机启动项
 
 # <a href="https://blog.csdn.net/hbtj_1216/article/details/50503284">timeGetTime()函数的用法</a>
 # <a href="https://www.cnblogs.com/herenzhiming/articles/5488536.html">解决shader编译错误：error X3025</a>
+# <a href="https://pymlovelyq.github.io/">一.【Java】从入门SE到进阶EE教你成为java工程师的2020最新书单</a>
+
