@@ -33,4 +33,4 @@ Win10如何手动添加开机启动项
 # <a href="https://blog.csdn.net/hbtj_1216/article/details/50503284">timeGetTime()函数的用法</a>
 # <a href="https://www.cnblogs.com/herenzhiming/articles/5488536.html">解决shader编译错误：error X3025</a>
 # <a href="https://pymlovelyq.github.io/">一.【Java】从入门SE到进阶EE教你成为java工程师的2020最新书单</a>
-
+# <a href="https://support.microsoft.com/zh-cn/windows/%E5%85%B3%E9%97%AD-windows-%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83%E4%B8%AD%E7%9A%84defender-%E9%98%B2%E7%97%85%E6%AF%92%E4%BF%9D%E6%8A%A4-99e6004f-c54c-8509-773c-a4d776b77960">关闭 Windows 安全中心中的Defender 防病毒保护</a>
