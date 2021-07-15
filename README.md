@@ -35,3 +35,7 @@ Win10如何手动添加开机启动项
 # <a href="https://pymlovelyq.github.io/">一.【Java】从入门SE到进阶EE教你成为java工程师的2020最新书单</a>
 # <a href="https://support.microsoft.com/zh-cn/windows/%E5%85%B3%E9%97%AD-windows-%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83%E4%B8%AD%E7%9A%84defender-%E9%98%B2%E7%97%85%E6%AF%92%E4%BF%9D%E6%8A%A4-99e6004f-c54c-8509-773c-a4d776b77960">关闭 Windows 安全中心中的Defender 防病毒保护</a>
 # <a herf="https://blog.csdn.net/sunmc1204953974/article/details/38112725">Windows下安装Code::Blocks 13.12进行C/C++开发</a>
+
+# <a href="https://blog.csdn.net/qianghaohao/article/details/51924618">Linux下源码安装CodeBlocks</a>
+
+
