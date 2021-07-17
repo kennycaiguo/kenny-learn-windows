@@ -37,5 +37,5 @@ Win10如何手动添加开机启动项
 # <a href="https://blog.csdn.net/sunmc1204953974/article/details/38112725">Windows下安装Code::Blocks 13.12进行C/C++开发</a>
 
 # <a href="https://blog.csdn.net/qianghaohao/article/details/51924618">Linux下源码安装CodeBlocks</a>
-
+# <a href="https://gameinstitute.qq.com/community/detail/112785">游戏开发完整学习路线</a>
 
