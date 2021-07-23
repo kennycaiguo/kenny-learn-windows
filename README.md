@@ -40,3 +40,4 @@ Win10如何手动添加开机启动项
 # <a href="https://gameinstitute.qq.com/community/detail/112785">游戏开发完整学习路线</a>
 # <a href="http://202.114.32.200:8080/courseware/108403/10840311/CD1/">华中科技大学计算机网络学院计算机图形学教程</a>
 # <a href="https://www.daimajiaoliu.com/code/crawler">代码交流网爬虫代码</a>
+# <a href="https://www.jianshu.com/p/45cd21aae931">优化Visual Studio Code的自动补全</a>
