@@ -41,3 +41,4 @@ Win10如何手动添加开机启动项
 # <a href="http://202.114.32.200:8080/courseware/108403/10840311/CD1/">华中科技大学计算机网络学院计算机图形学教程</a>
 # <a href="https://www.daimajiaoliu.com/code/crawler">代码交流网爬虫代码</a>
 # <a href="https://www.jianshu.com/p/45cd21aae931">优化Visual Studio Code的自动补全</a>
+# <a href="https://marketplace.visualstudio.com/items?itemName=nieyuyao.vscode-plugin-webgl-syntax">vscode WebGL 提示插件</a>
