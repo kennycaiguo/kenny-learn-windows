@@ -8,6 +8,7 @@ windows 问题
 这是图片就出现上图所示的虚线框，点击键盘上的“delete”
 这个时候图片就变成透明色了
 然后Ctrl+s，选择保存“PNG”格式
+## 参考网址：https://jingyan.baidu.com/article/8275fc86adfc5e07a13cf64a.html
 
 # 如何虚拟化物理机？
 答：
