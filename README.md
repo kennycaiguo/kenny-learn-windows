@@ -29,6 +29,10 @@ Win10如何手动添加开机启动项
 
 # <a href="http://blog.sina.com.cn/s/blog_3f61a3230102x7hs.html">emule电驴无法连接服务器</a>
 
+# <a href="https://zhuanlan.zhihu.com/p/179046436">电脑卡顿缓慢时别再堆内存了，正确升级顺序是这样</a>
+
+# <a href="https://mp.weixin.qq.com/s?__biz=MzUyNzc0ODI1Nw==&mid=2247487939&idx=3&sn=d30d59f4530fa48ee517285ef18cd482&chksm=fa7b8c0dcd0c051b27246a3e8192bd3d15fc56525dfbf398aa522c991261d164d5054e1a0cd8&scene=21#wechat_redirect">Windows系统必备系统优化管理工具推荐</a>
+
 # <a href="https://answers.microsoft.com/zh-hans/windows/forum/windows_10-windows_store/windowsapps%E6%AF%8F%E9%9A%9415%E5%88%86%E9%90%98/93298795-a75c-457d-81bf-ddbbad8a135b">WindowsApps每隔15分鐘就會跳一次参数错误信息</a>
 
 # <a href="https://blog.51cto.com/dyc2005/1975032">获取windows7 trustedInstaller权限</a>
