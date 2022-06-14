@@ -72,3 +72,4 @@ Win10如何手动添加开机启动项
 # <a href="https://blog.csdn.net/axi295309066/article/details/60954771">C/C++在Android开发中的应用</a>
 
 # <a href="https://github.com/Tyrrrz/YoutubeDownloader">c#版本的YoutubeDownloader</a>
+# <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35825">下载VS012,13,15,17,19,22imageLibrary</a>
