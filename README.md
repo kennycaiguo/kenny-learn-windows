@@ -28,6 +28,7 @@ Win10如何手动添加开机启动项
 如果想要添加启动项，可以将软件快捷方式移入开机启动文件夹中，比如移入“福昕阅读器”。
 # <a href="https://www.jianshu.com/p/73e9c94afd4e">windows10系统开机显示Win32Bridge.Server.exe参数错误</a>
 # <a href="https://blog.csdn.net/gaofenglxx/article/details/118539233">开机弹框显示IGCCTray.exe异常的修复方式</a>
+# <a href="https://www.bbsmax.com/A/gVdnrLyXdW/">虚拟机ping 不通主机，主机可ping 虚拟机解决方法</a>
 # <a href="https://zhuanlan.zhihu.com/p/28230165">九款免费轻量的 AutoCAD 的开源替代品推荐</a>
 
 # <a href="https://zhuanlan.zhihu.com/p/71103917">10个免费的CAD软件网站</a>
