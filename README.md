@@ -74,3 +74,16 @@ Win10如何手动添加开机启动项
 
 # <a href="https://github.com/Tyrrrz/YoutubeDownloader">c#版本的YoutubeDownloader</a>
 # <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35825">下载VS012,13,15,17,19,22imageLibrary</a>
+# <a href="ed2k://|file|cn_visual_studio_community_2015_x86_dvd_6847368.iso|4013920256|EB7F6605EDE67509E218E29173AC6574|/">下载vs2015社区版</a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+
+
+
+
+
