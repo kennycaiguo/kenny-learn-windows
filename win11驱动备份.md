@@ -8,7 +8,7 @@ Win11系统使用DISM命令备份驱动程序的方法
 
 　　这是一个简单、直接的工具，可以通过一个命令备份所有驱动程序。您还可以通过将命令添加到批处理文件并以管理员权限执行它以进行定期备份来自动化它。最大的优点是您不必处理驱动程序备份软件提供的许多选项。
 
-    <img width="700" height="317" alt="image" src="https://github.com/user-attachments/assets/dc5fc4ba-17b7-4c28-8c49-d0b3d82c468f" /><br>
+   <img width="809" height="374" alt="image" src="https://github.com/user-attachments/assets/953c4e25-b480-46d6-8176-898d2a166744" /><br>
 
 
 　　如何在Windows11/10中使用DISM导出驱动程序
@@ -39,7 +39,8 @@ Win11系统使用DISM命令备份驱动程序的方法
 
 　　使用WIN+X打开电源菜单，然后选择设备管理器。
 
-    <img width="700" height="499" alt="image" src="https://github.com/user-attachments/assets/1f6cfd2c-0569-4125-b9ef-4b8a959cc302" /><br>
+  <img width="806" height="578" alt="image" src="https://github.com/user-attachments/assets/5a7de2a3-8dc6-417d-923c-94c98ece8119" /><br>
+
 
 
 　　右键单击任何设备并选择属性。
