@@ -62,4 +62,4 @@ Dism /online /Add-Driver /Driver:<驱动备份路径/单个驱动文件夹/驱�
 
 ### 2.还原所有驱动
 Dism /online /Add-Driver /Driver:<驱动备份路径> /Recurse <br>
-我的是： Dism /online /Add-Driver /Driver:d:\win11drivers /Recurse
+我的是： Dism /online /Add-Driver /Driver:F:\win11drivers /Recurse
