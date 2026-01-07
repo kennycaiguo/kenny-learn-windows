@@ -1,4 +1,4 @@
-Win11系统使用DISM命令备份驱动程序的方法
+## 1.Win11系统使用DISM命令备份驱动程序的方法
 这篇教程介绍了如何在Windows 11系统中使用DISM（部署映像服务和管理）命令来备份驱动程序。通过简单的命令行操作，用户可以快速备份所有驱动程序，并可以选择将此过程自动化。文章还提供了在遇到问题时如何生成日志文件以排查故障的方法。
 ​现在有很多使用Win11系统的朋友，大家要备份驱动程序的话可以通过Dism命令来完成，具体应该怎么进行操作呢？今天来给朋友们详细讲讲Win11系统使用DISM命令备份驱动程序的方法，欢迎大家收藏。
 
@@ -20,10 +20,12 @@ Win11系统使用DISM命令备份驱动程序的方法
 　　执行以下命令开始备份驱动程序（要提前在D盘建好Drivers文件夹）：
 
 　　DISM /online /export-driver /destination:D:Drivers
-
+    我的是： DISM /online /export-driver /destination:F:win11drivers
+    
 　　如果需要从已经创建的镜像中导出驱动，可以使用以下命令：
 
-　　DISM /online /export-driver -Path C:offline-image -Destination D:drivers
+　　DISM /online /export-driver -Path C:offline-image -Destination D:drivers 
+     
 
 　　此命令从C:offline-image上装载的脱机映像导出第三方驱动程序。
 
@@ -54,4 +56,10 @@ Win11系统使用DISM命令备份驱动程序的方法
 　　确保将其保存在某处。
 
 　　驱动程序文件以SYS结尾，但如果设备管理器显示其他内容，您也可以复制它。
+## 2.恢复（还原）驱动
+### 1.还原单独驱动程序.inf。
+Dism /online /Add-Driver /Driver:<驱动备份路径/单个驱动文件夹/驱动名称.inf>
 
+### 2.还原所有驱动
+Dism /online /Add-Driver /Driver:<驱动备份路径> /Recurse
+我的是： Dism /online /Add-Driver /Driver:d:\win11drivers /Recurse
