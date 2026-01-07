@@ -19,7 +19,7 @@
 
 　　执行以下命令开始备份驱动程序（要提前在D盘建好Drivers文件夹）：
 
-　　DISM /online /export-driver /destination:D:Drivers
+　　DISM /online /export-driver /destination:D:Drivers<br>
     我的是： DISM /online /export-driver /destination:F:win11drivers
     
 　　如果需要从已经创建的镜像中导出驱动，可以使用以下命令：
@@ -61,5 +61,5 @@
 Dism /online /Add-Driver /Driver:<驱动备份路径/单个驱动文件夹/驱动名称.inf>
 
 ### 2.还原所有驱动
-Dism /online /Add-Driver /Driver:<驱动备份路径> /Recurse
+Dism /online /Add-Driver /Driver:<驱动备份路径> /Recurse <br>
 我的是： Dism /online /Add-Driver /Driver:d:\win11drivers /Recurse
